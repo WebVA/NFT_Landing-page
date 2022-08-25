@@ -1,0 +1,60 @@
+{
+  "name": "landingpage",
+  "version": "0.1.0",
+  "private": true,
+  "cachingdist": "E12NVANW1EUO8H",
+  "dependencies": {
+    "@fullpage/react-fullpage": "^0.1.21",
+    "@testing-library/jest-dom": "^5.16.1",
+    "@testing-library/react": "^12.1.2",
+    "@testing-library/user-event": "^13.5.0",
+    "ajv": "^8.10.0",
+    "autoprefixer": "^10.4.2",
+    "eslint": "^8.7.0",
+    "eslint-plugin-flowtype": "^8.0.3",
+    "gsap": "^3.9.1",
+    "gsap-trial": "^3.9.0",
+    "mini-css-extract-plugin": "^2.5.3",
+    "react": "^17.0.2",
+    "react-alice-carousel": "^2.5.1",
+    "react-dom": "^17.0.2",
+    "react-gsap": "^3.2.1",
+    "react-icons": "^4.3.1",
+    "react-router-dom": "^6.2.1",
+    "react-scripts": "5.0.0",
+    "react-slick": "^0.28.0",
+    "react-transition-group": "^4.4.2",
+    "react-use-scroll-direction": "^0.1.0",
+    "slick-carousel": "^1.8.1",
+    "styled-components": "^5.3.3",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "resolutions": {
+    "styled-components": "^5",
+    "mini-css-extract-plugin": "^2.5.3"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
